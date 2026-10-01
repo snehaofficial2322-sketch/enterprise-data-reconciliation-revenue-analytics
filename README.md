@@ -150,5 +150,5 @@ This project demonstrates practical experience with:
 
 ## Author
 
-**Sneha Sanju**  
+**Sneha**  
 Data Analyst | SQL | Power BI | Excel | Python
